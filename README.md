@@ -18,4 +18,4 @@
  
  
  
- ![Screenshots ](frontend/src/assets/vid.mp4)
+ ![Short vedio ](frontend/src/assets/vid.mp4)
